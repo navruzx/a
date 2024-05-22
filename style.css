@@ -1,0 +1,44 @@
+.box1 {
+    width: 45px;
+    height: 25px;
+    border: 7px solid green;
+}
+.box2 {
+    width: 45px;
+    height: 25px;
+    border: 7px dashed green;
+}
+.box3 {
+    width: 45px;
+    height: 25px;
+    border: 7px dotted green;
+}
+.box4 {
+    width: 45px;
+    height: 25px;
+    border: 7px double green;
+}
+.box5 {
+    width: 45px;
+    height: 25px;
+    border: 7px groove green;
+    
+}
+.box6 {
+  border: none; 
+}
+.box7 {
+    width: 45px;
+    height: 25px;
+    border: 7px ridge green;
+}
+.box8 {
+    width: 45px;
+    height: 25px;
+    border: 7px inset green;
+}
+.box9 {
+    width: 45px;
+    height: 25px;
+    border: 7px outset green;
+}
